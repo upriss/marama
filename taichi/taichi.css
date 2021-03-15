@@ -1,0 +1,15 @@
+
+a{text-decoration:underline}
+a.blank{text-decoration:none; color:darkred}
+h3 {color:darkred}
+h3.title {color:darkred; text-align: center; margin-top: 0.3in; margin-bottom: 0.3in}
+h4.red {color:darkred}
+hr {color:darkred; background-color:darkred; height: 3px;}
+div.blockitem {color:darkred; font-weight:bold; margin-top: 0.2in}
+body {background-color: #FFFFDF;}
+div.maintxt {border-left: 20px groove darkred; margin-left: 50px; padding: 25px; 
+            border-right: 20px ridge darkred; margin-right: 50px; padding: 25px;
+            border-top: 20px ridge darkred; margin-top: 50px; padding: 25px;
+            border-bottom: 20px groove darkred; margin-bottom: 50px; padding: 25px;}
+
+P {text-align: justify; margin-top: 0.1in;margin-bottom: 0.1in }
